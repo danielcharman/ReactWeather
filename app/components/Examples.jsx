@@ -11,7 +11,10 @@ let React = require('react');
 //stateless component version
 let Examples = (props) => {
   return (
-    <h2>Examples Component!</h2>
+    <div>
+      <h2>Examples Component!</h2>
+      <p>Welcome to the examples page</</p>
+    </div>
   );
 };
 
